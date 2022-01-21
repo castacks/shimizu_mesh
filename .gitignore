@@ -1,0 +1,9 @@
+*.png
+*.jpg
+
+
+*.pyc
+
+build/
+devel/
+logs/
