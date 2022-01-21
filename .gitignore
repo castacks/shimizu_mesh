@@ -1,9 +1,13 @@
 *.png
 *.jpg
 
-
 *.pyc
 
 build/
 devel/
 logs/
+.catkin_tools/
+
+*.code-workspace
+
+src/.vscode/
