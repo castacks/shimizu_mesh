@@ -1,0 +1,21 @@
+[submodule "src/date_utils"]
+	path = src/date_utils
+	url = git@github.com:castacks/date_utils.git
+[submodule "src/file_system"]
+	path = src/file_system
+	url = git@github.com:castacks/file_system.git
+[submodule "src/shimizu_docker"]
+	path = src/shimizu_docker
+	url = git@github.com:castacks/shimizu_docker.git
+[submodule "src/shimizu_pcl_common"]
+	path = src/shimizu_pcl_common
+	url = git@github.com:castacks/shimizu_pcl_common.git
+[submodule "src/shimizu_ros_common"]
+	path = src/shimizu_ros_common
+	url = git@github.com:castacks/shimizu_ros_common.git
+[submodule "src/shimizu_test_reconstruct_surface"]
+	path = src/shimizu_test_reconstruct_surface
+	url = git@github.com:castacks/shimizu_test_reconstruct_surface.git
+[submodule "src/tinycolormap"]
+	path = src/tinycolormap
+	url = git@github.com:castacks/tinycolormap.git
